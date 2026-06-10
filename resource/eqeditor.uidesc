@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vstgui-ui-description version="1">
+  <template name="view" class="CViewContainer" origin="0, 0" size="1060, 700"
+            background-color="#0D1117" custom-view-name="EQMainView" />
+</vstgui-ui-description>
