@@ -1,0 +1,33 @@
+# Build output
+build/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+
+# Compiled binaries
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+
+# VST3 bundle (installed separately via build.bat)
+*.vst3
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
